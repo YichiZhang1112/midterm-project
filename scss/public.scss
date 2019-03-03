@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-/* CSS Document */
+
 
 html, body, div, span, iframe, input, select, map, font, img, a img, samp, strong, hr, h1, h2, h3, h4, h5, h6, b, p, blockquote, a, address, code, dl, dt, dd, ol, ul, li, form, label, table, tr, td, th {
   padding: 0;
@@ -36,7 +36,7 @@ a {
 input {
   &[type=text], &[type=submit], &[type=button] {
     -webkit-appearance: none;
-    /*去除iPhone input默认样式}*/
+
   }
   outline: none;
   background: none;
